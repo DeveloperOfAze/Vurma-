@@ -1,0 +1,17 @@
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\bin\Debug\net6.0-windows\Vurma Cedveli.exe
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\bin\Debug\net6.0-windows\Vurma Cedveli.deps.json
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\bin\Debug\net6.0-windows\Vurma Cedveli.runtimeconfig.json
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\bin\Debug\net6.0-windows\Vurma Cedveli.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\bin\Debug\net6.0-windows\Vurma Cedveli.pdb
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma Cedveli.csproj.AssemblyReference.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma_Cedveli.Form1.resources
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma Cedveli.csproj.GenerateResource.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma Cedveli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma Cedveli.AssemblyInfoInputs.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma Cedveli.AssemblyInfo.cs
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma Cedveli.csproj.CoreCompileInputs.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma Cedveli.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\refint\Vurma Cedveli.dll
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma Cedveli.pdb
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\Vurma Cedveli.genruntimeconfig.cache
+C:\Users\Ehed\Desktop\AdAcademy\WinFormModule\Vurma Cedveli\Vurma Cedveli\obj\Debug\net6.0-windows\ref\Vurma Cedveli.dll
